@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NightMode Practice</string>
+    <string name="zero">0</string>
+    <string name="minus_button">Minus Button</string>
+    <string name="plus_button">Plus Button</string>
+    <string name="team_one">Team One</string>
+    <string name="team_two">Team Two</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+</resources>
