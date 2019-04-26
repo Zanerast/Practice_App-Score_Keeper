@@ -1,4 +1,4 @@
-# Practice App - Score Keeper - Night Mode 
+# Practice App - Score Keeper - Themes(Night Mode)
 
 ## Project Overview
 Course from [Android Developers Codelabs](https://codelabs.developers.google.com/android-training/) - 8.2 The Alarm Manager
